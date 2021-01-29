@@ -4,11 +4,13 @@ paperlist of SDE/UAV-imagery
 ## Self-supervised depth estimation using UVA imagery
 [1]  [A Novel Recurrent Encoder-Decoder Structure for Large-Scale Multi-view Stereo Reconstruction from An Open Aerial Dataset.](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_A_Novel_Recurrent_Encoder-Decoder_Structure_for_Large-Scale_Multi-View_Stereo_Reconstruction_CVPR_2020_paper.pdf) 2020CVPR
 
-[2] []
+### Arxiv
+[1] []()
+[2] []()
 
 ## tasks using UVA imagery
 [1] [DeepDualMapper: A Gated Fusion Network for Automatic Map Extraction using Aerial Images and Trajectories](https://arxiv.org/pdf/2002.06832.pdf) 2020 IJCAI
-
+[2] [Obstacle Avoidance Using a Monocular Camera](https://arxiv.org/pdf/2012.01608.pdf) arixiv
 ## Database
 
 ## Aerial database
