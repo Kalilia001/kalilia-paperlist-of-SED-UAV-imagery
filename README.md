@@ -12,4 +12,5 @@ paperlist of SED/UAV imagery
 
 ## Self-supervised depth estimation
 [1] [Self-supervised Monocular Trained Depth Estimation using Self-attention and Discrete Disparity Volume](https://openaccess.thecvf.com/content_CVPR_2020/papers/Johnston_Self-Supervised_Monocular_Trained_Depth_Estimation_Using_Self-Attention_and_Discrete_Disparity_CVPR_2020_paper.pdf) 2020CVPR
+
 [2] [Forget About the LiDAR: Self-Supervised Depth Estimators with MED Probability Volumes](https://arxiv.org/pdf/2008.03633.pdf) 2020NIPS
