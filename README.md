@@ -6,7 +6,8 @@ paperlist of SDE/UAV-imagery
 
 ### Arxiv
 [1] [Self-supervised monocular depth estimation from oblique UAV videos](https://arxiv.org/ftp/arxiv/papers/2012/2012.10704.pdf) 2020
-[2] []()
+
+[2] [Self-Supervised Learning for Monocular Depth Estimation from Aerial Imagery](https://arxiv.org/pdf/2008.07246.pdf) 2020
 
 ## tasks using UVA imagery
 [1] [DeepDualMapper: A Gated Fusion Network for Automatic Map Extraction using Aerial Images and Trajectories](https://arxiv.org/pdf/2002.06832.pdf) 2020 IJCAI
