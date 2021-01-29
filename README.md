@@ -5,9 +5,11 @@ paperlist of SDE/UAV-imagery
 [1]  [A Novel Recurrent Encoder-Decoder Structure for Large-Scale Multi-view Stereo Reconstruction from An Open Aerial Dataset.](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_A_Novel_Recurrent_Encoder-Decoder_Structure_for_Large-Scale_Multi-View_Stereo_Reconstruction_CVPR_2020_paper.pdf) 2020CVPR
 
 ### Arxiv
-[1] [Self-supervised monocular depth estimation from oblique UAV videos](https://arxiv.org/ftp/arxiv/papers/2012/2012.10704.pdf) 2020
+[1] [Self-supervised monocular depth estimation from oblique UAV videos](https://arxiv.org/ftp/arxiv/papers/2012/2012.10704.pdf) 2020 ISPRS
 
-[2] [Self-Supervised Learning for Monocular Depth Estimation from Aerial Imagery](https://arxiv.org/pdf/2008.07246.pdf) 2020
+[2] [Self-Supervised Learning for Monocular Depth Estimation from Aerial Imagery](https://arxiv.org/pdf/2008.07246.pdf) 2020 ISPRS
+
+[3] [Monocular Depth Estimation of UAV Images using Deep Learning] () arxiv
 
 ## tasks using UVA imagery
 [1] [DeepDualMapper: A Gated Fusion Network for Automatic Map Extraction using Aerial Images and Trajectories](https://arxiv.org/pdf/2002.06832.pdf) 2020 IJCAI
