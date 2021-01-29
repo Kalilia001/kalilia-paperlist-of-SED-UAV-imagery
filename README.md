@@ -5,7 +5,7 @@ paperlist of SDE/UAV-imagery
 [1]  [A Novel Recurrent Encoder-Decoder Structure for Large-Scale Multi-view Stereo Reconstruction from An Open Aerial Dataset.](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_A_Novel_Recurrent_Encoder-Decoder_Structure_for_Large-Scale_Multi-View_Stereo_Reconstruction_CVPR_2020_paper.pdf) 2020CVPR
 
 ### Arxiv
-[1] []()
+[1] [Self-supervised monocular depth estimation from oblique UAV videos](https://arxiv.org/ftp/arxiv/papers/2012/2012.10704.pdf) 2020
 [2] []()
 
 ## tasks using UVA imagery
