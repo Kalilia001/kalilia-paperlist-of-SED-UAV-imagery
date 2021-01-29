@@ -9,7 +9,7 @@ paperlist of SDE/UAV-imagery
 
 [2] [Self-Supervised Learning for Monocular Depth Estimation from Aerial Imagery](https://arxiv.org/pdf/2008.07246.pdf) 2020 ISPRS
 
-[3] [Monocular Depth Estimation of UAV Images using Deep Learning] () arxiv
+[3] [Monocular Depth Estimation of UAV Images using Deep Learning] (https://essay.utwente.nl/85209/) arxiv
 
 ## tasks using UVA imagery
 [1] [DeepDualMapper: A Gated Fusion Network for Automatic Map Extraction using Aerial Images and Trajectories](https://arxiv.org/pdf/2002.06832.pdf) 2020 IJCAI
