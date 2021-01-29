@@ -10,7 +10,10 @@ paperlist of SDE/UAV-imagery
 
 ## tasks using UVA imagery
 [1] [DeepDualMapper: A Gated Fusion Network for Automatic Map Extraction using Aerial Images and Trajectories](https://arxiv.org/pdf/2002.06832.pdf) 2020 IJCAI
-[2] [Obstacle Avoidance Using a Monocular Camera](https://arxiv.org/pdf/2012.01608.pdf) arixiv
+
+[2] [Obstacle Avoidance Using a Monocular Camera](https://arxiv.org/pdf/2012.01608.pdf) arxiv
+
+[3] [Mesh Reconstruction from Aerial Images for Outdoor Terrain Mapping Using Joint 2D-3D Learning](https://arxiv.org/pdf/2101.01844.pdf) arxiv
 ## Database
 
 ## Aerial database
